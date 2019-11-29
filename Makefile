@@ -60,6 +60,7 @@ LUA_CLIB_SKYNET = \
   lua-socket.c \
   lua-mongo.c \
   lua-netpack.c \
+  lua-websocketnetpack.c \
   lua-memory.c \
   lua-profile.c \
   lua-multicast.c \
